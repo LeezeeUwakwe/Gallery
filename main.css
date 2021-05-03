@@ -120,8 +120,6 @@ footer p {
 @media screen and (max-width: 768px) {
   .wrapper {
     width: 98%;
-    
-
   }
 
   .first-image img {
@@ -175,17 +173,21 @@ footer p {
   width: 97px;
 }
 .image-5  {
-  width: 100px;
+  width: 96px;
   margin-top: -108px;
 }
 .image-6 {
-  width: 100px;
+  width: 96px;
   margin-top: -108px;
+}
+footer {
+  margin-top: 5rem;
 }
 
 footer P {
   font-size: 9px;
 }
+
 
 
 
